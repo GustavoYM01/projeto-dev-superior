@@ -1,10 +1,7 @@
 # DevClass 001: Projeto DevCar
 
-## Recursos: 
-Template utilizado neste projeto
-https://www.figma.com/file/zEdDGF7hn1AOmZHfI04Sz6/devClass_001_HTML_CSS?node-id=0%3A1
-
 ## Tecnologias Utilizadas:
-HTML5 e CSS3.
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Link para o acesso do projeto: https://projeto-dev-superior.netlify.app/
